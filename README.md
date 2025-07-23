@@ -14,8 +14,7 @@ Clean Architecture Strucuture
 - Project follows **Clean Architecture principles**
 
 - **Domain Layer**: Core business logic and entities
-- **Application Layer**: Interfaces, services, use cases (DTOs, validations)
-- **Infrastructure Layer**: Data access (Dapper), external services
+- **Infrastructure Layer**: Enums, Exceptions, Helpers, Repositories, Services
 - **API Layer**: ASP.NET Web API controllers and filters
 
 Host - http://localhost:4300
