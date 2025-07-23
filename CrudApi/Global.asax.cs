@@ -1,3 +1,5 @@
+
+using AutoMapper;
 using CrudApi.Infrastructure;
 using System;
 using System.Collections.Generic;
@@ -14,13 +16,9 @@ namespace CrudApi
     {
         protected void Application_Start()
         {
-            //AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);
-            //RouteConfig.RegisterRoutes(RouteTable.Routes);
-            //BundleConfig.RegisterBundles(BundleTable.Bundles); 
-            //FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
 
-            //Autofac configuration
+            // Autofac configuration  
             AutofacConfig.RegisterDependecies();
         }
     }

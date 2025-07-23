@@ -1,5 +1,6 @@
 ﻿using Autofac;
 using Autofac.Integration.WebApi;
+using AutoMapper;
 using CrudApi.Repositories;
 using CrudApi.Services;
 
@@ -28,6 +29,15 @@ namespace CrudApi.Infrastructure
 
             //Web API configuration
             builder.RegisterApiControllers(Assembly.GetExecutingAssembly());
+
+            builder.Register(context => new MapperConfiguration(cfg =>
+            {
+                cfg.AddProfile<AutoMapperProfile>();
+            })).AsSelf().SingleInstance();
+
+            builder.Register(context => context.Resolve<MapperConfiguration>().CreateMapper(context.Resolve))
+                .As<IMapper>()
+                .InstancePerLifetimeScope();
 
             var container = builder.Build();
 

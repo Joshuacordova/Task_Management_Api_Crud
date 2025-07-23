@@ -41,7 +41,7 @@ namespace CrudApi.Controllers
                 return BadRequest(ModelState);
 
             await _taskService.CreateTask(dto);
-            return Ok();
+            return Ok("Successfully saved");
         }
 
         [HttpPut]
@@ -52,7 +52,7 @@ namespace CrudApi.Controllers
                 return BadRequest(ModelState);
 
             await _taskService.UpdateTask(dto);
-            return Ok();
+            return Ok("Successfully saved");
         }
 
         [HttpDelete]
@@ -60,7 +60,7 @@ namespace CrudApi.Controllers
         public async Task<IHttpActionResult> Delete(int Id)
         {
             await _taskService.DeleteTask(Id);
-            return Ok();
+            return Ok("Successfully deleted");
         }
 
         [HttpGet]
