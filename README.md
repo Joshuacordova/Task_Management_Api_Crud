@@ -4,8 +4,9 @@
 
 - asp.net web API 2 (.NET Framework 4.8)
 - Dapper + Dapper.Contrib (Micro ORM)
-- MySql
+- MySql (Database)
 - AutoFac (for Dependency Injection)
+- Automapper (for model and dto copy)
 - Postman or Thunder (for API testing)
 
 Clean Architecture Strucuture
