@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joshwing\\Desktop\\Projects\\CrudApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02ABE2F3-A24A-491C-81A8-E4F9DB2B055A}|CrudApi.csproj|c:\\users\\joshwing\\desktop\\projects\\crudapi\\infrastructure\\exceptions\\globalexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ABE2F3-A24A-491C-81A8-E4F9DB2B055A}|CrudApi.csproj|solutionrelative:infrastructure\\exceptions\\globalexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ABE2F3-A24A-491C-81A8-E4F9DB2B055A}|CrudApi.csproj|c:\\users\\joshwing\\desktop\\projects\\crudapi\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ABE2F3-A24A-491C-81A8-E4F9DB2B055A}|CrudApi.csproj|solutionrelative:services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ABE2F3-A24A-491C-81A8-E4F9DB2B055A}|CrudApi.csproj|c:\\users\\joshwing\\desktop\\projects\\crudapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ABE2F3-A24A-491C-81A8-E4F9DB2B055A}|CrudApi.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ABE2F3-A24A-491C-81A8-E4F9DB2B055A}|CrudApi.csproj|c:\\users\\joshwing\\desktop\\projects\\crudapi\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ABE2F3-A24A-491C-81A8-E4F9DB2B055A}|CrudApi.csproj|solutionrelative:repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ABE2F3-A24A-491C-81A8-E4F9DB2B055A}|CrudApi.csproj|c:\\users\\joshwing\\desktop\\projects\\crudapi\\models\\dtos\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ABE2F3-A24A-491C-81A8-E4F9DB2B055A}|CrudApi.csproj|solutionrelative:models\\dtos\\updatetaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ABE2F3-A24A-491C-81A8-E4F9DB2B055A}|CrudApi.csproj|c:\\users\\joshwing\\desktop\\projects\\crudapi\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02ABE2F3-A24A-491C-81A8-E4F9DB2B055A}|CrudApi.csproj|solutionrelative:models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateTaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\Joshwing\\Desktop\\Projects\\CrudApi\\Models\\Dtos\\UpdateTaskDto.cs",
+              "RelativeDocumentMoniker": "Models\\Dtos\\UpdateTaskDto.cs",
+              "ToolTip": "C:\\Users\\Joshwing\\Desktop\\Projects\\CrudApi\\Models\\Dtos\\UpdateTaskDto.cs",
+              "RelativeToolTip": "Models\\Dtos\\UpdateTaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:06:19.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\Joshwing\\Desktop\\Projects\\CrudApi\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\Joshwing\\Desktop\\Projects\\CrudApi\\Models\\TaskModel.cs",
+              "RelativeToolTip": "Models\\TaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:41:02.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Joshwing\\Desktop\\Projects\\CrudApi\\Repositories\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\Joshwing\\Desktop\\Projects\\CrudApi\\Repositories\\TaskRepository.cs",
+              "RelativeToolTip": "Repositories\\TaskRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAEwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:38:49.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Joshwing\\Desktop\\Projects\\CrudApi\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\Joshwing\\Desktop\\Projects\\CrudApi\\Services\\TaskService.cs",
+              "RelativeToolTip": "Services\\TaskService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAEwFUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:38:23.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Joshwing\\Desktop\\Projects\\CrudApi\\Infrastructure\\Exceptions\\GlobalExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Exceptions\\GlobalExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\Joshwing\\Desktop\\Projects\\CrudApi\\Infrastructure\\Exceptions\\GlobalExceptionFilter.cs",
+              "RelativeToolTip": "Infrastructure\\Exceptions\\GlobalExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:34:08.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\Joshwing\\Desktop\\Projects\\CrudApi\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\Joshwing\\Desktop\\Projects\\CrudApi\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:32:25.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
